@@ -2,4 +2,6 @@
 ## Entorno de trabajo para aprendizaje de arquitectura en docker.
 
 El objetivo de este proyecto es documentar el proceso de completo 
-de arquitectura de aplicaciones en docker
+de arquitectura de aplicaciones en docker.
+
+Se realizaran practicas con despliegue de microservicios.
